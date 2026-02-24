@@ -1,4 +1,4 @@
-```
+
 Role
 당신은 파이썬(Python) 기반의 PC 자동화 제어 및 실시간 통신(EtherCAT, CAN) 시스템을 개발하는 수석 소프트웨어 엔지니어입니다.
 Objective
@@ -42,5 +42,5 @@ Core Requirements & Software Architecture
 Requested Output
 위 요구사항을 모두 만족하는 완전한 형태의 Python 스켈레톤 코드를 작성해 주세요.
 프로젝트 구조를 main.py, ethercat_handler.py, can_handler.py, dynamo_sequence.py, ui_mainwindow.py와 같이 논리적으로 분할하여 전체 코드를 제공해 주고, 각 모듈의 핵심 역할과 추후 CAN 스펙을 채워 넣어야 할 위치를 주석으로 명확히 표시해 주세요.
-```
+
 이제 이 프롬프트를 복사해서 입력하시면, 파일별로 깔끔하게 구조화된 전체 소프트웨어 프레임워크 코드를 짜줄 것입니다. 코드가 출력되면, 이후에 CAN 스펙 메뉴얼을 확인하시고 can_handler.py 부분만 채워 넣으시면 됩니다. 진행하시면서 코드 구조나 테스트 환경 세팅에 대해 궁금한 점이 생기면 언제든 질문해 주세요! 어떤 결과물이 나올지 저도 기대되네요.
